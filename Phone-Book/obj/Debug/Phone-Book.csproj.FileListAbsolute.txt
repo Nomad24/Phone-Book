@@ -1,0 +1,10 @@
+C:\Users\nassi\source\repos\Phone-Book\Phone-Book\bin\Debug\Phone-Book.exe.config
+C:\Users\nassi\source\repos\Phone-Book\Phone-Book\bin\Debug\Phone-Book.exe
+C:\Users\nassi\source\repos\Phone-Book\Phone-Book\bin\Debug\Phone-Book.pdb
+C:\Users\nassi\source\repos\Phone-Book\Phone-Book\obj\Debug\Phone-Book.csprojAssemblyReference.cache
+C:\Users\nassi\source\repos\Phone-Book\Phone-Book\obj\Debug\Phone_Book.Form1.resources
+C:\Users\nassi\source\repos\Phone-Book\Phone-Book\obj\Debug\Phone_Book.Properties.Resources.resources
+C:\Users\nassi\source\repos\Phone-Book\Phone-Book\obj\Debug\Phone-Book.csproj.GenerateResource.cache
+C:\Users\nassi\source\repos\Phone-Book\Phone-Book\obj\Debug\Phone-Book.csproj.CoreCompileInputs.cache
+C:\Users\nassi\source\repos\Phone-Book\Phone-Book\obj\Debug\Phone-Book.exe
+C:\Users\nassi\source\repos\Phone-Book\Phone-Book\obj\Debug\Phone-Book.pdb

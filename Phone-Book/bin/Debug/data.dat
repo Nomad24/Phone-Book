@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="yes"?>
+<AppData xmlns="http://tempuri.org/AppData.xsd">
+  <PhoneBook>
+    <PhoneNumber>884837796</PhoneNumber>
+    <Name>Adil</Name>
+    <Surname>Nassipolla</Surname>
+    <Email>nasipolla@gmail.com</Email>
+    <DateOfBirth>1999-09-24T00:00:00+02:00</DateOfBirth>
+    <ID>-1</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNumber>458789636</PhoneNumber>
+    <Name>Maria</Name>
+    <Surname>Ugay</Surname>
+    <Email>maria@gmail.com</Email>
+    <DateOfBirth>2020-06-11T22:47:02.6681971+02:00</DateOfBirth>
+    <ID>-3</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNumber>485236585</PhoneNumber>
+    <Name>Mike</Name>
+    <Surname>Matt</Surname>
+    <Email>mike@gmail.com</Email>
+    <DateOfBirth>2020-06-11T22:47:44.4993653+02:00</DateOfBirth>
+    <ID>-4</ID>
+  </PhoneBook>
+  <PhoneBook>
+    <PhoneNumber>852265896</PhoneNumber>
+    <Name>Ron</Name>
+    <Surname>Smith</Surname>
+    <Email>ron@gmail.com</Email>
+    <DateOfBirth>2020-06-12T00:00:00+02:00</DateOfBirth>
+    <ID>-5</ID>
+  </PhoneBook>
+</AppData>
